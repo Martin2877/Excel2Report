@@ -1,5 +1,3 @@
-# MsRepository
-Just my respository
+# Excel2Report
 
-Hi!Humans!
-Now I make a change.
+This progarm is maked to change excel to report in case of saving time of writing boring reports.
